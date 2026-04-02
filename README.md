@@ -1,7 +1,6 @@
 [远古洛书-无限数值幻方](https://github.com/jiqi136/Magic-square/blob/main/%E8%BF%9C%E5%8F%A4%E6%B4%9B%E4%B9%A6-%E6%97%A0%E9%99%90%E6%95%B0%E5%80%BC%E5%B9%BB%E6%96%B9-%E4%B8%AD%E6%96%87.md)
 [Infinite Numerical Magic Square](https://github.com/jiqi136/Magic-square)
 
-[英语学习一逐字翻译](https://github.com/jiqi136/DS-AI/blob/main/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E4%B8%80%E9%80%90%E5%AD%97%E7%BF%BB%E8%AF%91.md)
 
 ---
 
@@ -42,6 +41,9 @@ Windows 7/Win10/Win11
 
 
 ![C5.png](https://h1.appinn.me/file/1757443245549_C5.png)
+
+![B1.png](https://h1.appinn.me/file/1757443253459_B1.png)
+
 ---
 
 1.  **智能对话管理，灵活省资源：**
@@ -52,7 +54,7 @@ Windows 7/Win10/Win11
 
 
 
-![B1.png](https://h1.appinn.me/file/1757443253459_B1.png)
+![C6.png]([https://h1.appinn.me/file/1757443253459_B1.png](https://github.com/jiqi136/Ai-Assistant/blob/main/app/C6.png?raw=true))
 
 ---
 
