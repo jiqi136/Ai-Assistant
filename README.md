@@ -53,8 +53,10 @@ Windows 7/Win10/Win11
         *   `上下文输入文本`：在多轮对话上下文，输入自定的文本,操控整个对话上下文.
 
 
+![C6.png](https://github.com/jiqi136/Ai-Assistant/blob/main/app/C6.png?raw=true)
 
-![C6.png]([https://h1.appinn.me/file/1757443253459_B1.png](https://github.com/jiqi136/Ai-Assistant/blob/main/app/C6.png?raw=true))
+
+
 
 ---
 
