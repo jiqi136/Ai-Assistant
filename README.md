@@ -61,11 +61,13 @@ Windows 7 / Win10 / Win11
 
 #  **📥 Program & Open Source Code [Download Link]:  :**
 
+*   **Ai-Assistant/releases  Download:** [https://github.com/jiqi136/Ai-Assistant/releases]([https://www.123865.com/s/nKjJjv-dsJ5d](https://github.com/jiqi136/Ai-Assistant/releases))
+*   
+
 *   **Lanzou Download  :**
 [https://wwtl.lanzoum.com/b0fpcpmbg](https://wwtl.lanzoum.com/b05fmred)
 
-*   **123 Cloud Drive Download:** [https://www.123865.com/s/nKjJjv-dsJ5d](https://www.123865.com/s/nKjJjv-dsJ5d)
-*   
+
 ---
 
 
