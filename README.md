@@ -70,6 +70,16 @@ Windows 7 / Win10 / Win11
 
 ---
 
+### Go Language Source Code Build Instructions
+Building the project requires only the following two core files:
+- **`main.go`**  
+  The program entry file, containing the main business logic implementation.
+- **`go.mod`**  
+  The Go module definition file, used for managing project dependencies and version information.
+Download the above files and import them into the project directory to start building.
+
+---
+
 
 ## 📜 Apache 2.0 Open Source License
 
