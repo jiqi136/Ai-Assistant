@@ -61,7 +61,7 @@ Windows 7 / Win10 / Win11
 
 #  **📥 Program & Open Source Code [Download Link]:  :**
 
-*   **Ai-Assistant/releases  Download:** [https://github.com/jiqi136/Ai-Assistant/releases]([https://www.123865.com/s/nKjJjv-dsJ5d](https://github.com/jiqi136/Ai-Assistant/releases))
+*   **Ai-Assistant/releases  Download:** [https://github.com/jiqi136/Ai-Assistant/releases](https://github.com/jiqi136/Ai-Assistant/releases)
 *   
 
 *   **Lanzou Download  :**
