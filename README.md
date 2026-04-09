@@ -20,6 +20,8 @@ Windows 7 / Win10 / Win11
 
 ![B3.png](https://h1.appinn.me/file/1757443254500_B3.png)
 
+
+
 ### 🔥 Core Advantages  
 | **Feature** | **Description**  | 
 | :--- | :---  | 
@@ -38,7 +40,7 @@ Windows 7 / Win10 / Win11
 
 
 
-![C5.png](https://h1.appinn.me/file/1757443245549_C5.png)
+![tu1.png](https://github.com/jiqi136/Ai-Assistant/blob/main/app/tu1.png?raw=true)
 
 ![B1.png](https://h1.appinn.me/file/1757443253459_B1.png)
 
@@ -51,9 +53,8 @@ Windows 7 / Win10 / Win11
         *   `Context Input Text`: Input custom text within the multi-round conversation context to manipulate the entire dialogue context.
 
 
-![C6.png](https://github.com/jiqi136/Ai-Assistant/blob/main/app/C6.png?raw=true)
 
-
+![tu2B.png](https://github.com/jiqi136/Ai-Assistant/blob/main/app/tu2B.png?raw=true)
 
 
 ---
