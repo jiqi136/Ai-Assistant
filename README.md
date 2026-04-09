@@ -1,39 +1,39 @@
-[ [**English**](https://github.com/jiqi136/Ai-Assistant) ] | [ **中文版** ] [远古洛书-无限数值幻方](https://github.com/jiqi136/Magic-square/blob/main/%E8%BF%9C%E5%8F%A4%E6%B4%9B%E4%B9%A6-%E6%97%A0%E9%99%90%E6%95%B0%E5%80%BC%E5%B9%BB%E6%96%B9-%E4%B8%AD%E6%96%87.md)
+
+[ **English** ] | [ [**中文版**] (https://github.com/jiqi136/Ai-Assistant/blob/main/Chinese.md) ] [远古洛书-无限数值幻方](https://github.com/jiqi136/Magic-square/blob/main/%E8%BF%9C%E5%8F%A4%E6%B4%9B%E4%B9%A6-%E6%97%A0%E9%99%90%E6%95%B0%E5%80%BC%E5%B9%BB%E6%96%B9-%E4%B8%AD%E6%96%87.md)
 [Infinite Numerical Magic Square](https://github.com/jiqi136/Magic-square)
 
 
 ---
 
-
-[公开源码]小说写作&Ai编程助手 (V23.1)绿色便捷版
+[Open Source] Novel Writing & AI Programming Assistant (V23.1) Green Portable Edition
 ---
-##  软件名称
-[公开源码]小说写作&Ai编程助手 (V23.1)绿色便捷版
-##  应用平台
-Windows 7/Win10/Win11
+## Software Name
+[Open Source] Novel Writing & AI Programming Assistant (V23.1) Green Portable Edition
+## Supported Platforms
+Windows 7 / Win10 / Win11
 
 ---
 
-**核心亮点：适配主流的API路线中转站,中转使用使用国内与海外最热门AI模型**
+**Core Highlight: Adapts to mainstream API route relays, using both domestic and overseas hottest AI models via relay**
 
 ---
 
 ![B3.png](https://h1.appinn.me/file/1757443254500_B3.png)
 
-### 🔥 核心优势  
-| **特性** | **说明**  | 
+### 🔥 Core Advantages  
+| **Feature** | **Description**  | 
 | :--- | :---  | 
-| **集成世界最热门AI模型** | 适配主流的API路线中转站,中转使用双子座Gemini、代码claude、gpt、grok等AI模型.  | 
-| **最强生成图片** | 适配生成图片AI模型Nano Banana 【G双子座*纳米香蕉gemini-flash-image】| 
-| **多模态**      | 读取图片功能与读取pdf文件功能.| 
-| **多通道AI引擎** | DeepSeek官方 + 多个免费R1.  | 
-| **自定接入各类模型** | 除了deepseek-r1,还可以接入通义千问qwen、豆包doubao等各类AI模型.  | 
-| **免费格式转换** | 一键将各类网页上AI内容转为纯文本、网页HTML、论坛BBCode，便捷分享  | 
-| **自定联网搜索设置** | 调动本地浏览器，实时联网获取几十个网页内容并全文参考 | 
-| **零硬件门槛** | 兼容Windows 7+系统，普通电脑即开即用  | 
-| **数据安全** | SQLite本地加密存储，对话记录支持密码隐藏（点击◆隐藏）  | 
-| **纪录搜索** | 支持用词语搜索本地存储，快速查找到历史纪录  | 
-| **收藏纪录** | 一键收藏重要对话，支持分类和自定义输入笔记，轻松构建个人知识库。  | 
+| **Integrates World's Hottest AI Models** | Adapts to mainstream API route relays, using relayed models such as Gemini, Claude, GPT, Grok, etc.  | 
+| **Best-in-Class Image Generation** | Adapts image generation AI model Nano Banana [G Gemini * Nano Banana gemini-flash-image] | 
+| **Multimodal**      | Image reading and PDF file reading capabilities. | 
+| **Multi-Channel AI Engine** | Official DeepSeek + multiple free R1.  | 
+| **Custom Integration of Various Models** | Besides deepseek-r1, you can also integrate various AI models such as Qwen, Doubao, etc.  | 
+| **Free Format Conversion** | One-click conversion of AI content from any webpage to plain text, web HTML, forum BBCode for easy sharing | 
+| **Custom Web Search Settings** | Invokes local browser, fetches content from dozens of webpages in real-time with full-text reference | 
+| **Zero Hardware Requirements** | Compatible with Windows 7+ systems, runs instantly on any ordinary computer | 
+| **Data Security** | Local encrypted SQLite storage, chat history supports password hiding (click ◆ to hide) | 
+| **History Search** | Supports keyword search in local storage for quick retrieval of past records | 
+| **Favorites** | One-click bookmarking of important conversations, supports categorization and custom notes for easy personal knowledge base construction. | 
 
 
 
@@ -44,11 +44,11 @@ Windows 7/Win10/Win11
 
 ---
 
-1.  **智能对话管理，灵活省资源：**
-    *   **精准上下文控制：** 独创多轮对话管理选项，按需清理上下文，节省Token消耗，保持对话焦点：
-        *   `清除全部上下文`：清除全部联系思维上下文，重新对话.
-        *   `多轮对话管理工具`：任意剔除单条对话,掌握整个对话上下文，发挥最强效果的AI对话.
-        *   `上下文输入文本`：在多轮对话上下文，输入自定的文本,操控整个对话上下文.
+1.  **Smart Conversation Management, Flexible and Resource-Saving:**
+    *   **Precise Context Control:** Unique multi-round conversation management options, clear context on demand to save token consumption and maintain conversation focus:
+        *   `Clear All Context`: Clears the entire conversation context to restart the dialogue.
+        *   `Multi-round Conversation Management Tool`: Remove individual conversation turns arbitrarily, master the entire conversation context for optimal AI dialogue.
+        *   `Context Input Text`: Input custom text within the multi-round conversation context to manipulate the entire dialogue context.
 
 
 ![C6.png](https://github.com/jiqi136/Ai-Assistant/blob/main/app/C6.png?raw=true)
@@ -58,83 +58,82 @@ Windows 7/Win10/Win11
 
 ---
 
-#  **📥程序与公开源码【下载地址】:  ：**
+#  **📥 Program & Open Source Code [Download Link]:  :**
 
-*   **蓝奏云下载  ：**
+*   **Lanzou Download  :**
 [https://wwtl.lanzoum.com/b0fpcpmbg](https://wwtl.lanzoum.com/b05fmred)
 
-*   **123云盘下载：** [https://www.123865.com/s/nKjJjv-dsJ5d](https://www.123865.com/s/nKjJjv-dsJ5d)
+*   **123 Cloud Drive Download:** [https://www.123865.com/s/nKjJjv-dsJ5d](https://www.123865.com/s/nKjJjv-dsJ5d)
 *   
 ---
 
 
-## 📜 Apache 2.0 开源授权许可
+## 📜 Apache 2.0 Open Source License
 
-本项目采用 宽松型 **Apache 2.0 许可证**。这意味着您可以完全自由地使用框架源码。
+This project is licensed under the permissive **Apache 2.0 License**. This means you have complete freedom to use the source code.
 
-您可以：(通俗解释 )
--   ✅ **商业使用**：允许将本作品及其衍生品用于商业目的，并进行销售。
--   ✅ **修改分发**：允许修改代码，并以开源或闭源的形式重新分发。
+You can: (Plain English explanation)
+-   ✅ **Commercial Use:** Allows using this work and its derivatives for commercial purposes and selling them.
+-   ✅ **Modify and Redistribute:** Allows modifying the code and redistributing it under either open-source or closed-source terms.
 
-
-## 觉得这个项目不错？请别忘了给它点一个 ⭐！您的支持是持续维护的动力。
+---
+## Like this project? Don't forget to give it a ⭐! Your support is the motivation for continued maintenance.
 
 ---
 ---
+### This program uses the lightweight desktop PC-Gui framework
+
+## PC-Gui: Born for AI, a lightweight desktop GUI framework natively supporting Deepseek-style real-time typewriter streaming output! 🎉
+
+[ [**Apache 2.0 Open Source Code https://github.com/jiqi136/PC-Gui**](https://github.com/jiqi136/PC-Gui) ] 
+
+> 💡 **Core Philosophy: Rapid Development · Minimal Size · Native Performance · Helping Build Quality Tools Users Are Willing to Pay For**
+
+On the desktop, users' demand for efficient, practical tools has never waned, and they have a strong willingness to pay.
+PC-Gui aims to help developers quickly respond to this market need, building compact yet powerful commercial desktop applications using the simplest and most stable technologies.
+
 ---
-# 本程序采用 轻量桌面 PC-Gui 框架
 
-### PC-Gui: 为 AI 而生，原生支持类 Deepseek实时打字机流式输出的轻量桌面 GUI 框架！ 🎉
+### Core Tech Stack
 
-[ [**Apache 2.0公开源码 https://github.com/jiqi136/PC-Gui**](https://github.com/jiqi136/PC-Gui) ] 
+Abandoning complex dependencies and bloated third-party GUI libraries, returning to the essence of programming: **building desktop applications with a backend mindset**.
+By using a stable Go backend to provide web services driving a flexible web frontend, achieving unparalleled lightweightness and performance.
 
-> 💡 **核心理念：极速开发 · 极致体积 · 原生性能 · 助力打造用户愿意付费的优质工具**
-
-在桌面端，用户对高效、实用工具的需求从未减弱，并且拥有强烈的付费意愿。
-PC-Gui 旨在帮助开发者快速响应这一市场需求，用最简单、最稳定的技术，构建出小巧而强大的商业级桌面应用。
-
----
-
-### 核心技术栈
-
-摒弃了复杂的依赖，臃肿的第三方 GUI 库，回归编程的本质：**用后端思维构建桌面应用**。
-通过一个稳定的 Go 后端提供 Web 服务，驱动一个灵活的 Web 前端界面，实现了无与伦比的轻量化与性能。
-
-| 组件 | 技术详情 |
+| Component | Technical Details |
 | :--- | :--- |
-| **后端服务** | Go 语言，基于标准库 `net/http` 提供本地 Web 服务。 |
-| **前端界面** | HTML, JavaScript, CSS 标准 Web 技术。 |
-| **数据存储** | 本地加密的 SQLite 数据库，轻量、可靠。 |
+| **Backend Service** | Go language, provides local web services based on the standard library `net/http`. |
+| **Frontend Interface** | HTML, JavaScript, CSS standard web technologies. |
+| **Data Storage** | Locally encrypted SQLite database, lightweight and reliable. |
 
 
 <br>
 
-### 核心优势 & 多方案对比
+### Core Advantages & Multi-Solution Comparison
 
-| 类别 | ✅ PC-Gui 优势 | ⚠️ 其他方案对比 |
+| Category | ✅ PC-Gui Advantages | ⚠️ Other Solutions Comparison |
 | :--- | :--- | :--- |
-| **🚀 零依赖运行** | **后端Go 语言**极速开发，强类型易于维护；交叉编译，生成单一可执行文件，无需用户安装任何运行时或依赖库，双击即可运行。 | ⚠️需要用户预装并配置  WebView2, Python、C++, Node.js 等复杂的环境和依赖。 |
-| **🎨界面技术 (HTML)** | **HTML** 前端界面可借助海量模板与 AI 工具快速生成，不仅效率极高，还能轻松打造出精美、现代的视觉风格。 | 传统 GUI 库界面通常较为陈旧，自定义难度高。 |
-| **AI 流式输出** | 仅需简单的异步处理，即可实现 AI 内容的流式输出，提升用户体验。 | 实现流式输出通常需要处理复杂的回调或多线程。 |
-| **Markdown 渲染** | 完美渲染 AI 返回的 Markdown 格式，并支持各类语言的语法高亮。 | Chatbox、Cherry等对 Markdown 渲染及代码高亮效果较为朴素。|
-| **单文件部署** | 利用 Go 标准库中的 embed，可以将所有静态资源（如图片、CSS 等）直接打包到单一可执行文件中，并复用 HTML 服务进行直接访问。|依赖臃肿:需借助外部工具打包，产物体积庞大或文件零散，部署复杂。 |
-| **📦 极致体积** | 应用打包后体积仅 **10-25MB**，分发和下载毫无压力。 | ⚠️ 基于 Electron / WebView2 的应用体积普遍在 **100MB** 以上。 |
-| **🧠 超低内存占用** | 运行时内存占用仅约 **8MB**，CPU 开销近乎为零，轻快如飞。 | ⚠️ Electron / WebView2 应用内存占用轻松达到 **500MB** 以上。 |
-| **代码安全性** |  Go 编译后的二进制文件,结合 garble 混淆技术，有效防止逻辑被反编译。|易泄露:Python、Node.js 脚本语言极易被反编译、扒光，毫无商业机密。 |
-| **💻跨平台兼容** | Go 语言原生支持 Windows 7/10/11, Linux, macOS，覆盖最广泛的用户群体。 | Webview2 等方案不支持 Windows 7 等旧版系统。 |
-| **运行稳定性** | 核心仅依赖 Go 官方标准库，可长期稳定运行不崩溃。 | 依赖大量第三方库，版本兼容性和稳定性存在风险。 |
-| **💯 完全掌控** | 核心代码仅依赖 Go 官方标准库，**无任何第三方 GUI 框架黑盒**，代码完全自主可控，便于长期维护与排查问题。 | ⚠️ 依赖大型第三方框架，代码冗余，遇到疑难杂症时排查困难。 |
-| **🌐 全球化支持** | 界面基于标准网页，可直接利用浏览器的**内置翻译功能**，轻松支持全球数百种语言。 | 需要内置多语言文本库，工作量巨大。 |
-| **💡跨语言复用** | 框架思路清晰，任何支持 HTTP 服务的语言（如 C#, Python, Rust）均可借鉴。 | 框架与特定语言或平台深度绑定，难以迁移。 |
+| **🚀 Zero Dependency Runtime** | **Backend Go language** enables rapid development, strong typing for easy maintenance; cross-compiles to a single executable file, no runtime or library installation required by users, double-click to run. | ⚠️ Requires users to pre-install and configure complex environments and dependencies like WebView2, Python, C++, Node.js. |
+| **🎨 Interface Technology (HTML)** | **HTML** frontend interface can be quickly generated using numerous templates and AI tools, achieving high efficiency and easily creating beautiful, modern visual styles. | Traditional GUI library interfaces are often outdated with high customization difficulty. |
+| **AI Streaming Output** | Only requires simple asynchronous handling to achieve streaming output of AI content, enhancing user experience. | Implementing streaming output typically requires handling complex callbacks or multi-threading. |
+| **Markdown Rendering** | Perfectly renders Markdown format returned by AI, with syntax highlighting for various languages. | Chatbox, Cherry, etc., have relatively basic Markdown rendering and code highlighting. |
+| **Single File Deployment** | Using Go's standard library `embed`, all static resources (images, CSS, etc.) can be directly bundled into a single executable file, and directly accessed by reusing the HTML service. | Bloated dependencies: Requires external packaging tools, resulting in large bundle sizes or scattered files, complex deployment. |
+| **📦 Minimal Size** | Packaged application size is only **10-25MB**, effortless distribution and download. | ⚠️ Applications based on Electron / WebView2 typically exceed **100MB**. |
+| **🧠 Ultra-Low Memory Usage** | Runtime memory usage is only about **8MB**, CPU overhead nearly zero, light and fast. | ⚠️ Electron / WebView2 applications easily consume over **500MB** of memory. |
+| **Code Security** | Go compiled binary files, combined with garble obfuscation technology, effectively prevent logic from being decompiled. | Easy to leak: Python, Node.js scripting languages are extremely easy to decompile and expose, no trade secrets. |
+| **💻 Cross-Platform Compatibility** | Go language natively supports Windows 7/10/11, Linux, macOS, covering the widest user base. | Solutions like Webview2 do not support older systems like Windows 7. |
+| **Runtime Stability** | Core relies only on Go's official standard library, ensuring long-term stable operation without crashes. | Relies on many third-party libraries, with risks of version compatibility and stability issues. |
+| **💯 Complete Control** | Core code relies only on Go's official standard library, **no third-party GUI framework black boxes**, code is completely self-controllable, facilitating long-term maintenance and troubleshooting. | ⚠️ Relies on large third-party frameworks with redundant code, making troubleshooting difficult when encountering complex issues. |
+| **🌐 Globalization Support** | Interface based on standard web pages, can directly leverage the browser's **built-in translation feature**, easily supporting hundreds of global languages. | Requires built-in multilingual text libraries, massive effort. |
+| **💡 Cross-Language Reusability** | The framework concept is clear, any language that supports HTTP services (e.g., C#, Python, Rust) can learn from it. | Frameworks are deeply tied to specific languages or platforms, difficult to migrate. |
 
 
 <br>
 
-## 致开发者
+## To Developers
 
-在 AI 浪潮席卷全球、就业市场面临挑战的今天，掌握一门能够快速创造价值的技能至关重要。
+Today, as the AI wave sweeps the globe and the job market faces challenges, mastering a skill that can rapidly create value is crucial.
 
-希望 PC-Gui 这套轻量、高效的框架，能成为您手中的利器，帮助您快速将创意变为现实，开发出用户愿意付费的桌面实用工具，最终实现实现个人价值与商业创收。
+I hope PC-Gui, this lightweight and efficient framework, can become a sharp tool in your hands, helping you quickly turn ideas into reality, develop practical desktop tools users are willing to pay for, and ultimately achieve personal value and commercial success.
 
-[ [**Apache 2.0公开源码 https://github.com/jiqi136/PC-Gui**](https://github.com/jiqi136/PC-Gui) ] 
+[ [**Apache 2.0 Open Source Code https://github.com/jiqi136/PC-Gui**](https://github.com/jiqi136/PC-Gui) ] 
 
