@@ -82,9 +82,9 @@ Windows 7/Win10/Win11
 
 ---
 ---
-# 本程序采用 轻量桌面 PC-Gui 框架
+### 本程序采用 轻量桌面 PC-Gui 框架
 
-### PC-Gui: 为 AI 而生，原生支持类 Deepseek实时打字机流式输出的轻量桌面 GUI 框架！ 🎉
+## PC-Gui: 为 AI 而生，原生支持类 Deepseek实时打字机流式输出的轻量桌面 GUI 框架！ 🎉
 
 [ [**Apache 2.0公开源码 https://github.com/jiqi136/PC-Gui**](https://github.com/jiqi136/PC-Gui) ] 
 
