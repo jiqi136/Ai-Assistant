@@ -63,7 +63,8 @@ Windows 7 / Win10 / Win11
 
 *   **Ai-Assistant/releases  Download:** [https://github.com/jiqi136/Ai-Assistant/releases](https://github.com/jiqi136/Ai-Assistant/releases)
 *   
-
+*   **sourceforge.net Download  :**
+[https://sourceforge.net/p/ai-assistan](https://sourceforge.net/p/ai-assistan)
 
 
 
