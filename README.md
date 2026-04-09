@@ -64,8 +64,7 @@ Windows 7 / Win10 / Win11
 *   **Ai-Assistant/releases  Download:** [https://github.com/jiqi136/Ai-Assistant/releases](https://github.com/jiqi136/Ai-Assistant/releases)
 *   
 
-*   **Lanzou Download  :**
-[https://wwtl.lanzoum.com/b0fpcpmbg](https://wwtl.lanzoum.com/b05fmred)
+
 
 
 ---
