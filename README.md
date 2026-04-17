@@ -5,12 +5,12 @@
 
 ---
 
-[Open Source] Novel Writing & AI Programming Assistant (V23.1) Green Portable Edition
+[Open Source] Novel Writing & AI Programming Assistant (V25.1) Green Portable Edition
 ---
 ## Software Name
 [Open Source] Novel Writing & AI Programming Assistant (V23.1) Green Portable Edition
 ## Supported Platforms
-Windows 7 / Win10 / Win11
+Windows 2008 / Windows 7 / Win10 / Win11
 
 ---
 
