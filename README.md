@@ -1,11 +1,12 @@
 
-[ **English** ] | [ [**中文版**](https://github.com/jiqi136/Ai-Assistant/blob/main/Chinese.md) ] [远古洛书-无限数值幻方](https://github.com/jiqi136/Magic-square/blob/main/%E8%BF%9C%E5%8F%A4%E6%B4%9B%E4%B9%A6-%E6%97%A0%E9%99%90%E6%95%B0%E5%80%BC%E5%B9%BB%E6%96%B9-%E4%B8%AD%E6%96%87.md)
+[ **English** ] | [ [**中文版**](https://github.com/jiqi136/Ai-Assistant/blob/main/Chinese.md) ] 
+[远古洛书-无限数值幻方](https://github.com/jiqi136/Magic-square/blob/main/%E8%BF%9C%E5%8F%A4%E6%B4%9B%E4%B9%A6-%E6%97%A0%E9%99%90%E6%95%B0%E5%80%BC%E5%B9%BB%E6%96%B9-%E4%B8%AD%E6%96%87.md)
 [Infinite Numerical Magic Square](https://github.com/jiqi136/Magic-square)
 
 
 ---
 
-[Open Source] Novel Writing & AI Programming Assistant (V25.1) Green Portable Edition
+[Open Source] Novel Writing & AI Programming Assistant (V26.1) Green Portable Edition
 ---
 
 ## Supported Platforms
@@ -27,7 +28,7 @@ Windows 2008 / Windows 7 / Win10 / Win11
 | **Integrates World's Hottest AI Models** | Adapts to mainstream API route relays, using relayed models such as Gemini, Claude, GPT, Grok, etc.  | 
 | **Best-in-Class Image Generation** | Adapts image generation AI model Nano Banana [G Gemini * Nano Banana gemini-flash-image] | 
 | **Multimodal**      | Image reading and PDF file reading capabilities. | 
-| **Multi-Channel AI Engine** | Official DeepSeek + multiple free R1.  | 
+| **Multi-Channel AI Engine** | Compatible with the latest DeepSeek versions v4-flash and v4-pro.  | 
 | **Custom Integration of Various Models** | Besides deepseek-r1, you can also integrate various AI models such as Qwen, Doubao, etc.  | 
 | **Free Format Conversion** | One-click conversion of AI content from any webpage to plain text, web HTML, forum BBCode for easy sharing | 
 | **Custom Web Search Settings** | Invokes local browser, fetches content from dozens of webpages in real-time with full-text reference | 
