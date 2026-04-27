@@ -31,7 +31,6 @@ Windows 2008 / Windows 7 / Win10 / Win11
 | **Multi-Channel AI Engine** | Compatible with the latest DeepSeek versions v4-flash and v4-pro.  | 
 | **Custom Integration of Various Models** | Besides deepseek-r1, you can also integrate various AI models such as Qwen, Doubao, etc.  | 
 | **Free Format Conversion** | One-click conversion of AI content from any webpage to plain text, web HTML, forum BBCode for easy sharing | 
-| **Custom Web Search Settings** | Invokes local browser, fetches content from dozens of webpages in real-time with full-text reference | 
 | **Zero Hardware Requirements** | Compatible with Windows 7+ systems, runs instantly on any ordinary computer | 
 | **Data Security** | Local encrypted SQLite storage, chat history supports password hiding (click ◆ to hide) | 
 | **History Search** | Supports keyword search in local storage for quick retrieval of past records | 
