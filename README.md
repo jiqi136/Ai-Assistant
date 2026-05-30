@@ -6,7 +6,7 @@
 
 ---
 
-[Open Source] Novel Writing & AI Programming Assistant (V27.1) Green Portable Edition
+[Open Source] Novel Writing & AI Programming Assistant (V28.1) Green Portable Edition
 ---
 
 ## Supported Platforms
