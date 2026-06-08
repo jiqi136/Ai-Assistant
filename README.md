@@ -149,3 +149,9 @@ I hope PC-Gui, this lightweight and efficient framework, can become a sharp tool
 
 [ [**Apache 2.0 Open Source Code https://github.com/jiqi136/PC-Gui**](https://github.com/jiqi136/PC-Gui) ] 
 
+
+
+[![Ai-Assistant](https://img.shields.io/badge/Assistant-blue?style=for-the-badge)](https://github.com/jiqi136/Ai-Assistant)
+[![Ai-Assistant](https://img.shields.io/badge/Ai-blue?style=for-the-badge)](https://github.com/jiqi136/Ai-Assistant)
+[![deepseek](https://img.shields.io/badge/deepseek-blue?style=for-the-badge)](https://github.com/jiqi136/Ai-Assistant)
+
