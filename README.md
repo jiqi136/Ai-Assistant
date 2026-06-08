@@ -5,6 +5,9 @@
 
 
 ---
+[![Ai-Assistant](https://img.shields.io/badge/Assistant-blue?style=for-the-badge)](https://github.com/jiqi136/Ai-Assistant)
+[![Ai-Assistant](https://img.shields.io/badge/Ai-blue?style=for-the-badge)](https://github.com/jiqi136/Ai-Assistant)
+[![deepseek](https://img.shields.io/badge/deepseek-blue?style=for-the-badge)](https://github.com/jiqi136/Ai-Assistant)
 
 [Open Source] Novel Writing & AI Programming Assistant (V28.1) Green Portable Edition
 ---
@@ -151,7 +154,5 @@ I hope PC-Gui, this lightweight and efficient framework, can become a sharp tool
 
 
 
-[![Ai-Assistant](https://img.shields.io/badge/Assistant-blue?style=for-the-badge)](https://github.com/jiqi136/Ai-Assistant)
-[![Ai-Assistant](https://img.shields.io/badge/Ai-blue?style=for-the-badge)](https://github.com/jiqi136/Ai-Assistant)
-[![deepseek](https://img.shields.io/badge/deepseek-blue?style=for-the-badge)](https://github.com/jiqi136/Ai-Assistant)
+
 
