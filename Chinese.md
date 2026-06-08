@@ -23,7 +23,7 @@ Windows 7 / Win10 / Win11 /  Windows 2008+
 ### 🔥 核心优势  
 | **特性** | **说明**  | 
 | :--- | :---  | 
-| **集成世界最热门AI模型** | 适配主流的API路线中转站,中转使用双子座Gemini、代码claude、gpt、grok等AI模型.  | 
+| **集成世界最热门AI模型** | 适配主流的API路线中转站,中转使用双子座Gemini、代码claude、Chatgpt、grok等AI模型.  | 
 | **最强生成图片** | 适配生成图片AI模型Nano Banana 【G双子座*纳米香蕉gemini-flash-image】| 
 | **多模态**      | 读取图片功能与读取pdf文件功能.| 
 | **多通道AI引擎** | 适配DeepSeek最新版本v4-flash与v4-pro. | 
