@@ -28,7 +28,7 @@
 ### 🔥 Core Advantages  
 | **Feature** | **Description**  | 
 | :--- | :---  | 
-| **Integrates World's Hottest AI Models** | Adapts to mainstream API route relays, using relayed models such as Gemini, Claude, GPT, Grok, etc.  | 
+| **Integrates World's Hottest AI Models** | Adapts to mainstream API route relays, using relayed models such as Gemini, Claude, ChatGPT, Grok, etc.  | 
 | **Best-in-Class Image Generation** | Adapts image generation AI model Nano Banana [G Gemini * Nano Banana gemini-flash-image] | 
 | **Multimodal**      | Image reading and PDF file reading capabilities. | 
 | **Multi-Channel AI Engine** | Compatible with the latest DeepSeek versions v4-flash and v4-pro.  | 
